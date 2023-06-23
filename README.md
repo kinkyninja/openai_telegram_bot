@@ -5,13 +5,12 @@ It's a simplest ever telegram bot that uses openai models to chat with you.
 Make sure you have python installed.
 
 pip install aiogram #(or use pip3)
+
 pip install openai #(or use pip3)
 
-# then run: 
+# Then run in command line:
 
-python bot.py 
-or
-python3 bot.py
+python bot.py (or python3 bot.py)
 
 
 
