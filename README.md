@@ -1,4 +1,4 @@
-# openai_telegram_bot
+# Simplest Ever Openai Telegram Bot
 
 This is the simplest Telegram bot that utilizes OpenAI models to chat with you.
 
