@@ -20,11 +20,9 @@ Make sure you have Python installed. Copy the file in your directory.
 
 
 # Launch the bot
-<br>Run the following command in the command line to launch the bot:
+Run the following command in the command line to launch the bot:
 <br>`python bot.py` (or python3 bot.py)
 
 <br>Feel free to customize and enhance the bot according to your requirements.
-
-Note: Make sure to provide the necessary permissions and API keys for the Telegram bot to function properly.
 
 
