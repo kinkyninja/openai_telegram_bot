@@ -18,7 +18,8 @@ Make sure you have Python installed. Copy the file in your directory.
 <br>Use this token in the code:
 <br>`tg_bot_token = "<your bot token obtained via botfather>"`
 
-<br># Launch the bot
+
+# Launch the bot
 <br>Run the following command in the command line to launch the bot:
 <br>`python bot.py` (or python3 bot.py)
 
